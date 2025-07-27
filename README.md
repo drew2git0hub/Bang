@@ -1,1 +1,2 @@
-나원래파이썬안쓰는데걍친구가코드보내줘서컴파일해본거임(이거윈도우아니면안터지지않나?)
+code contributor : Mayweather-FAN
+https://github.com/Mayweather-FAN
